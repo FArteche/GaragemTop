@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Veículos (Garagem Top)
 
-Este é um sistema web completo para a exibição e gerenciamento de um catálogo de veículos. Construído com PHP puro e um banco de dados relacional (MySQL/MariaDB), o sistema é dividido em uma vitrine pública para visitantes e um painel administrativo seguro para gerenciamento de conteúdo.
+Este é um sistema web completo para a exibição e gerenciamento de um catálogo de veículos. Construído com PHP puro e um banco de dados relacional (MySQL), o sistema é dividido em uma vitrine pública para visitantes e um painel administrativo seguro para gerenciamento de conteúdo.
 
 ## ✨ Funcionalidades
 
