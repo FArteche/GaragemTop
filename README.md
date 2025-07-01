@@ -39,7 +39,7 @@ Siga os passos abaixo para rodar o projeto em seu ambiente local.
 
 3.  **Banco de Dados:**
     -   Abra o phpMyAdmin e crie um novo banco de dados (ex: `garagem_db`).
-    -   Importe ou execute o script `SQL db_veiculosys.sql` encontrado na raiz do projeto.
+    -   Importe ou execute o script SQL `db_veiculosys.sql` encontrado na raiz do projeto.
     -   O script já possui inserts.
 
 4.  **Configuração:**
